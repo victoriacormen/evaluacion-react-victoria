@@ -1,0 +1,16 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(163, 160, 255);
+    color: #1f1f1f;
+    text-align: center;
+    padding: 1em;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: whitesmoke;
+    text-decoration: dotted;
+}

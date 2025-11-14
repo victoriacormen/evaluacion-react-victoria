@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre":"TechMadrid", "ciudad":"Madrid", "lat":40.4168, "lng":-3.7038},
+    {"id":2, "nombre":"DataBarcelona", "ciudad":"Barcelona", "lat":41.3874, "lng":2.1686},
+    {"id":3, "nombre":"CloudSevilla", "ciudad":"Sevilla", "lat":37.3891, "lng":-5.9845},
+    {"id":4, "nombre":"WebValencia", "ciudad":"Valencia", "lat":39.4699, "lng":-0.3763}
+]
