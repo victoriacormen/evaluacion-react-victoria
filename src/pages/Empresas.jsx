@@ -6,7 +6,7 @@ export default function Empresas() {
     useEffect(()=>{
         const cargarEmpresas= async ()=>{
             try{
-                const respuesta= await fetch ("http://localhost:5173/empresas.json")
+                const respuesta= await fetch ("/empresas.json")
                 const data= await respuesta.json()
                 setEmpresas(data)
             }catch(error){
